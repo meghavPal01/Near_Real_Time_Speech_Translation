@@ -1,0 +1,115 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Frontend dependencies and build outputs
+front-end/node_modules
+front-end/dist
+front-end/extension-build
+front-end/web-build
+dist-ssr
+*.local
+
+# Node.js package-lock files (optional - remove if you want to track them)
+front-end/package-lock.json
+
+# Python virtual environments and cache
+back-end/venv/
+back-end/__pycache__/
+back-end/*.pyc
+back-end/*.pyo
+back-end/*.pyd
+back-end/.Python
+back-end/env/
+back-end/pip-log.txt
+back-end/pip-delete-this-directory.txt
+back-end/.pytest_cache/
+
+# Environment variables and secrets
+back-end/.env
+front-end/.env
+front-end/.env.local
+front-end/.env.development.local
+front-end/.env.test.local
+front-end/.env.production.local
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Model files and data (if any large ML models are downloaded)
+*.model
+*.pkl
+*.h5
+*.onnx

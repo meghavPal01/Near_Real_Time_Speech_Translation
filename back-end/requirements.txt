@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+transformers
+torch
+sentencepiece
+accelerate
+deepmultilingualpunctuation
+openai-whisper
+ffmpeg-python
