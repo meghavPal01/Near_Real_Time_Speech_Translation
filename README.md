@@ -22,7 +22,6 @@ A modern, real-time speech-to-text translation application available as both a w
 ## Demo
 <img width="1680" height="1050" alt="Screenshot 2025-10-15 at 9 58 07 AM" src="https://github.com/user-attachments/assets/a2040534-55a5-4680-8b43-840dc960982b" />
 <img width="3360" height="2100" alt="Screenshot 2025-10-15 at 9 57 52 AM" src="https://github.com/user-attachments/assets/7afa8515-a308-4127-b4ea-34fcd0d0a8bf" />
-<img width="3360" height="2100" alt="image" src="https://github.com/user-attachments/assets/c5f3243a-3cee-4d20-a8d5-2c173dbdb148" />
 
 ## 🚀 Quick Start
 
