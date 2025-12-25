@@ -1,4 +1,4 @@
-# 🌍 Real-Time Speech Translator
+# 🌍 Near-Real-Time Speech Translator
 
 A modern, real-time speech-to-text translation application built with React, FastAPI, and advanced speech recognition technology..
 
