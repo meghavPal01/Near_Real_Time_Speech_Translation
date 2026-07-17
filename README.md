@@ -362,13 +362,6 @@ npm run dev
 4. Update documentation as needed
 5. Submit a pull request with clear description
 
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/your-repo/issues)
-- **Documentation**: This README and inline code comments
-- **Community**: Contribute to make it better!
-
----
 
 ## 🎉 Ready to Get Started?
 
